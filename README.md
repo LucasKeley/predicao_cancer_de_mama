@@ -71,8 +71,3 @@ Os resultados obtidos para cada algoritmo são apresentados abaixo:
 | Dummy Classifier  |  0.6293706293706294  |
 | Árvore de Decisão | 0.8881118881118881   |
 | KNN               | 0.951048951048951    |
-
-Acurácia Dammy: 0.6293706293706294
-Acurácia Árvore: 0.8881118881118881
-Acurácia KNN: 0.951048951048951
-
