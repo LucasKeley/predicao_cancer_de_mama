@@ -1,6 +1,6 @@
-# Predição de Câncer de Mama usando IA
+# Classificação turmores de Mama usando IA
 
-Este projeto utiliza algoritmos de Machine Learning para prever a presença de câncer de mama em um conjunto de dados.  Exploramos diferentes modelos e técnicas de pré-processamento para alcançar a melhor acurácia possível.
+Este projeto utiliza algoritmos de Machine Learning para classificar tumores de câncer de mama em um conjunto de dados.  Exploramos diferentes modelos e técnicas de pré-processamento para alcançar a melhor acurácia possível.
 
 ## Descrição do Projeto
 
